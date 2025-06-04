@@ -98,3 +98,7 @@ button {
 .symbolcross {
     color: #ef736c;
 }
+
+span {
+    line-height: 2;
+}
