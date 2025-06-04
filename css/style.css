@@ -37,7 +37,56 @@ button {
     font-weight: bold;
 }
 
-.section {
+.section_button {
     background-color: #e0e0e0;
     color: #777;
+}
+
+
+.section {
+    margin-bottom: 25px;
+}
+
+.section h3 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.task span.symbol {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.badge {
+    font-size: 0.75em;
+    padding: 3px 8px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+}
+
+.editorial {
+    background-color: #47adf1;
+}
+
+.q1Goals {
+    background-color: #a682e0;
+}
+
+.recruiting {
+    background-color: #5ecba3;
+}
+
+.mobile {
+    background-color: #f4b400;
+}
+
+.website {
+    background-color: #e91e63;
+}
+
+.sales {
+    background-color: #8bc34a;
 }
