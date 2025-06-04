@@ -1,8 +1,43 @@
 body {
-    font-family: "Roboto";
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: #f8f9fb;
 }
+
+header {
+    background-color: white;
+    padding: 10px 40px;
+}
+
 
 .text_logo {
     display: inline;
     vertical-align: 10px;
+}
+
+.container {
+    background: white;
+    width: 70%;
+    margin: 30px auto;
+    border-radius: 6px;
+    padding: 20px 40px;
+}
+
+.buttons {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 8px 16px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #47adf1;
+    color: white;
+    font-weight: bold;
+}
+
+.section {
+    background-color: #e0e0e0;
+    color: #777;
 }
